@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "36",
+      "setup": "javac PrimeFactorization.java",
+      "run": "java PrimeFactorization",
+      "input": "36",
+      "output": "2 2 3 3",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "11",
+      "setup": "javac PrimeFactorization.java",
+      "run": "java PrimeFactorization",
+      "input": "11",
+      "output": "11",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "64",
+      "setup": "javac PrimeFactorization.java",
+      "run": "java PrimeFactorization",
+      "input": "64",
+      "output": "2 2 2 2 2 2",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "61",
+      "setup": "javac PrimeFactorization.java",
+      "run": "java PrimeFactorization",
+      "input": "61",
+      "output": "61",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "35",
+      "setup": "javac PrimeFactorization.java",
+      "run": "java PrimeFactorization",
+      "input": "35",
+      "output": "5 7",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
