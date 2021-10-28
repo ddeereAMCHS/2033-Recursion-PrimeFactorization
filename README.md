@@ -8,8 +8,7 @@
   - Call the prime factorization method with that integer as a parameter
   - Print the result
 
-Example Input: <br/>
-36
-<br/>
-Example Output: <br/>
+Example Input:\
+36\
+Example Output:\
 2 2 3 3 
