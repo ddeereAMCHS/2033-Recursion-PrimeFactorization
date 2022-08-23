@@ -1,5 +1,7 @@
 # Prime Factorization
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `PrimeFactorization.java`
 - Create a recursive static method that takes an integer greater than or equal to 2 and returns a String containing all the prime factors of that integer in non-decreasing order separated by spaces
   - Do NOT include the number 1 in the prime factors of a number
