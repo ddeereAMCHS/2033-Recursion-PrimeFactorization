@@ -13,4 +13,4 @@
 Example Input:\
 36\
 Example Output:\
-2 2 3 3 
+The prime factors are 2 2 3 3 
