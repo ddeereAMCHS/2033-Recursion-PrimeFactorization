@@ -5,8 +5,8 @@
       "setup": "javac PrimeFactorization.java",
       "run": "java PrimeFactorization",
       "input": "36",
-      "output": "2 2 3 3",
-      "comparison": "included",
+      "output": "The prime factors are 2 2 3 3$",
+      "comparison": "regex",
       "timeout": 10,
       "points": null
     },
@@ -15,8 +15,8 @@
       "setup": "javac PrimeFactorization.java",
       "run": "java PrimeFactorization",
       "input": "11",
-      "output": "11",
-      "comparison": "included",
+      "output": "The prime factors are 11$",
+      "comparison": "regex",
       "timeout": 10,
       "points": null
     },
@@ -25,8 +25,8 @@
       "setup": "javac PrimeFactorization.java",
       "run": "java PrimeFactorization",
       "input": "64",
-      "output": "2 2 2 2 2 2",
-      "comparison": "included",
+      "output": "The prime factors are 2 2 2 2 2 2$",
+      "comparison": "regex",
       "timeout": 10,
       "points": null
     },
@@ -35,8 +35,8 @@
       "setup": "javac PrimeFactorization.java",
       "run": "java PrimeFactorization",
       "input": "61",
-      "output": "61",
-      "comparison": "included",
+      "output": "The prime factors are 61$",
+      "comparison": "regex",
       "timeout": 10,
       "points": null
     },
@@ -45,8 +45,8 @@
       "setup": "javac PrimeFactorization.java",
       "run": "java PrimeFactorization",
       "input": "35",
-      "output": "5 7",
-      "comparison": "included",
+      "output": "The prime factors are 5 7$",
+      "comparison": "regex",
       "timeout": 10,
       "points": null
     }
