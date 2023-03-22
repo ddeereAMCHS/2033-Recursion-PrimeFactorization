@@ -7,7 +7,7 @@
       "input": "36",
       "output": "The prime factors are 2 2 3 3$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "11",
       "output": "The prime factors are 11$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "64",
       "output": "The prime factors are 2 2 2 2 2 2$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -37,7 +37,7 @@
       "input": "61",
       "output": "The prime factors are 61$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -47,7 +47,7 @@
       "input": "35",
       "output": "The prime factors are 5 7$",
       "comparison": "regex",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]
